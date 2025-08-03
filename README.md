@@ -1,5 +1,5 @@
 # Insurance-Data-Analysis
-Power BI Dashboard for stakeholders and non-technical users to understand the insights easily!
+Interactive Power BI dashboard designed for stakeholders and non-technical users to easily explore and understand key insights.
 
 <img width="1919" height="1113" alt="image" src="https://github.com/user-attachments/assets/5ff91a9a-46ae-4fcf-a19a-3f05624cb826" />
 
@@ -133,7 +133,5 @@ Health insurance providers can:
 - Enable **row-level security (RLS)** for user-specific insights.
 
 ---
-
-## 📁 Folder Structure (Optional Suggestion)
 
 
