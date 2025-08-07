@@ -3,6 +3,8 @@ Interactive Power BI dashboard designed for stakeholders and non-technical users
 
 <img width="1919" height="1113" alt="image" src="https://github.com/user-attachments/assets/5ff91a9a-46ae-4fcf-a19a-3f05624cb826" />
 
+<img width="1919" height="1136" alt="image" src="https://github.com/user-attachments/assets/c58787c4-dbb7-4ff5-9fee-4595c44b0934" />
+
 # USA Insurance Data Analysis - Demographic Overview (Power BI Dashboard)
 
 This Power BI project analyzes demographic trends in USA health insurance data. The dashboard helps identify regional and demographic factors influencing insurance charges, enabling smarter, data-driven decisions for healthcare pricing, outreach, and policy modeling.
